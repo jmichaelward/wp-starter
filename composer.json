@@ -7,6 +7,12 @@
     "require-dev": {
         "jmichaelward/wp-setup": "^2.0"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
     "config": {
         "vendor-dir": "wp-content/mu-plugins/vendor"
     },
