@@ -9,7 +9,7 @@
     },
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/jmichaelward/wp-installer-plugin.git"
         }
     ],
