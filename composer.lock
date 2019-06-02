@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "84a39f175b4b0ec8bf4dd92313940c3f",
+    "content-hash": "866c7e4164d05eb78e63b25e9ae9fb11",
     "packages": [
         {
             "name": "composer/installers",
@@ -190,16 +190,16 @@
         },
         {
             "name": "jmichaelward/wp-installer-plugin",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-installer-plugin.git",
-                "reference": "6d07a1fb423b6607445fce0b1f05c73ecf5ada24"
+                "reference": "7e0c4f680d62329aef93e943668f0b899e69006a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jmichaelward/wp-installer-plugin/zipball/6d07a1fb423b6607445fce0b1f05c73ecf5ada24",
-                "reference": "6d07a1fb423b6607445fce0b1f05c73ecf5ada24",
+                "url": "https://api.github.com/repos/jmichaelward/wp-installer-plugin/zipball/7e0c4f680d62329aef93e943668f0b899e69006a",
+                "reference": "7e0c4f680d62329aef93e943668f0b899e69006a",
                 "shasum": ""
             },
             "require": {
@@ -220,7 +220,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Example Composer installer plugin.",
-            "time": "2019-06-02T05:24:02+00:00"
+            "time": "2019-06-02T14:39:25+00:00"
         },
         {
             "name": "mustache/mustache",
