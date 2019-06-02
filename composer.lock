@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b0e13615e4dd070e7c023d9242ec447c",
+    "content-hash": "a765d93547aaea50047f38bb38e0547f",
     "packages": [
         {
             "name": "composer/installers",
@@ -190,11 +190,17 @@
         },
         {
             "name": "jmichaelward/wp-installer-plugin",
-            "version": "dev-master",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-installer-plugin.git",
                 "reference": "6d07a1fb423b6607445fce0b1f05c73ecf5ada24"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jmichaelward/wp-installer-plugin/zipball/6d07a1fb423b6607445fce0b1f05c73ecf5ada24",
+                "reference": "6d07a1fb423b6607445fce0b1f05c73ecf5ada24",
+                "shasum": ""
             },
             "require": {
                 "composer-plugin-api": "^1.1",
@@ -212,6 +218,7 @@
                     "JMichaelWard\\WPInstaller\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "description": "Example Composer installer plugin.",
             "time": "2019-06-02T05:24:02+00:00"
         },
@@ -590,7 +597,7 @@
     "packages-dev": [
         {
             "name": "jmichaelward/wp-setup",
-            "version": "dev-master",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-setup.git",
@@ -1103,10 +1110,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "jmichaelward/wp-installer-plugin": 20,
-        "jmichaelward/wp-setup": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
