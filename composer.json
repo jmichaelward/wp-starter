@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/jmichaelward/wp-installer-plugin"
+            "url": "https://github.com/jmichaelward/wp-installer-plugin.git"
         }
     ],
     "config": {
