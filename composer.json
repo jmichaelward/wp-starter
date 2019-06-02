@@ -1,0 +1,26 @@
+{
+    "name": "jmichaelward/wp-starter",
+    "require": {
+        "composer/installers": "^1.6",
+        "jmichaelward/wp-installer-plugin": "dev-master"
+    },
+    "require-dev": {
+        "jmichaelward/wp-setup": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jmichaelward/wp-installer-plugin"
+        }
+    ],
+    "config": {
+        "vendor-dir": "wp-content/mu-plugins/vendor"
+    },
+    "extra": {
+        "install-paths": {
+            "wp-content/mu-plugins/{$name}": ["type:wordpress-muplugin"],
+            "wp-content/plugins/{$name}": ["type:wordpress-plugin"],
+            "wp-content/themes/{$name}": ["type:wordpress-theme"]
+        }
+    }
+}
