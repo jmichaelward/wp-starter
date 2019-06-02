@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b9660f31ef0a04df0efba57c9d4a5fba",
+    "content-hash": "b0e13615e4dd070e7c023d9242ec447c",
     "packages": [
         {
             "name": "composer/installers",
@@ -193,7 +193,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jmichaelward/wp-installer-plugin",
+                "url": "https://github.com/jmichaelward/wp-installer-plugin.git",
                 "reference": "6d07a1fb423b6607445fce0b1f05c73ecf5ada24"
             },
             "require": {

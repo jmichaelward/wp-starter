@@ -2,10 +2,10 @@
     "name": "jmichaelward/wp-starter",
     "require": {
         "composer/installers": "^1.6",
-        "jmichaelward/wp-installer-plugin": "dev-master"
+        "jmichaelward/wp-installer-plugin": "dev-master@dev"
     },
     "require-dev": {
-        "jmichaelward/wp-setup": "dev-master"
+        "jmichaelward/wp-setup": "dev-master@dev"
     },
     "repositories": [
         {
