@@ -1,0 +1,18 @@
+# Ignore WordPress files.
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/index.php
+/license.txt
+/readme.html
+/xmlrpc.php
+
+# Ignore contents of wp-content.
+/wp-content/index.php
+/wp-content/mu-plugins/*
+/wp-content/plugins/*
+/wp-content/themes/*
+/wp-content/uploads
+
+# Add exceptions below.
+# Example: !/wp-content/plugins/my-plugin-directory/
