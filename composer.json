@@ -5,7 +5,7 @@
         "jmichaelward/wp-installer-plugin": "^0.2"
     },
     "require-dev": {
-        "jmichaelward/wp-setup": "^2.0"
+        "jmichaelward/wp-setup": "^2.1"
     },
     "repositories": [
         {

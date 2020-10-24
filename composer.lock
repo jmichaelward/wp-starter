@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "677e3b16a1c66a90a4acc64eaf37fbdf",
+    "content-hash": "1cc16362e60a629e1c4619b6517200a6",
     "packages": [
         {
             "name": "composer/installers",
@@ -226,16 +226,16 @@
         },
         {
             "name": "jmichaelward/wp-installer-plugin",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-installer-plugin.git",
-                "reference": "a0b3d3e7b05189be2ae8c8ab43c5c6ab0d4b75c2"
+                "reference": "017b06e250769c6c52e2de7e1a61b7de730a065e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jmichaelward/wp-installer-plugin/zipball/a0b3d3e7b05189be2ae8c8ab43c5c6ab0d4b75c2",
-                "reference": "a0b3d3e7b05189be2ae8c8ab43c5c6ab0d4b75c2",
+                "url": "https://api.github.com/repos/jmichaelward/wp-installer-plugin/zipball/017b06e250769c6c52e2de7e1a61b7de730a065e",
+                "reference": "017b06e250769c6c52e2de7e1a61b7de730a065e",
                 "shasum": ""
             },
             "require": {
@@ -258,9 +258,9 @@
             "description": "Example Composer installer plugin.",
             "support": {
                 "issues": "https://github.com/jmichaelward/wp-installer-plugin/issues",
-                "source": "https://github.com/jmichaelward/wp-installer-plugin/tree/0.2.0"
+                "source": "https://github.com/jmichaelward/wp-installer-plugin/tree/0.2.1"
             },
-            "time": "2020-10-24T15:15:58+00:00"
+            "time": "2020-10-24T16:02:08+00:00"
         },
         {
             "name": "mustache/mustache",
@@ -678,16 +678,16 @@
     "packages-dev": [
         {
             "name": "jmichaelward/wp-setup",
-            "version": "2.0.1",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-setup.git",
-                "reference": "63b8ce6ba4394345210982e965cddb2f0358de1b"
+                "reference": "16018c56f582e708c8c739b035094a307fa2887f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jmichaelward/wp-setup/zipball/63b8ce6ba4394345210982e965cddb2f0358de1b",
-                "reference": "63b8ce6ba4394345210982e965cddb2f0358de1b",
+                "url": "https://api.github.com/repos/jmichaelward/wp-setup/zipball/16018c56f582e708c8c739b035094a307fa2887f",
+                "reference": "16018c56f582e708c8c739b035094a307fa2887f",
                 "shasum": ""
             },
             "require": {
@@ -715,9 +715,9 @@
             "description": "A simple script for quickly setting up a WordPress installation.",
             "support": {
                 "issues": "https://github.com/jmichaelward/wp-setup/issues",
-                "source": "https://github.com/jmichaelward/wp-setup/tree/2.0.1"
+                "source": "https://github.com/jmichaelward/wp-setup/tree/2.1.0"
             },
-            "time": "2020-08-29T17:22:42+00:00"
+            "time": "2020-10-24T16:40:32+00:00"
         },
         {
             "name": "wp-cli/config-command",
