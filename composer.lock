@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7f9e8b0f4d39fa3e94dfcfd6f36a8810",
+    "content-hash": "677e3b16a1c66a90a4acc64eaf37fbdf",
     "packages": [
         {
             "name": "composer/installers",
@@ -226,7 +226,7 @@
         },
         {
             "name": "jmichaelward/wp-installer-plugin",
-            "version": "dev-update-to-composer-2",
+            "version": "0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-installer-plugin.git",
@@ -258,7 +258,7 @@
             "description": "Example Composer installer plugin.",
             "support": {
                 "issues": "https://github.com/jmichaelward/wp-installer-plugin/issues",
-                "source": "https://github.com/jmichaelward/wp-installer-plugin/tree/update-to-composer-2"
+                "source": "https://github.com/jmichaelward/wp-installer-plugin/tree/0.2.0"
             },
             "time": "2020-10-24T15:15:58+00:00"
         },
@@ -1220,9 +1220,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "jmichaelward/wp-installer-plugin": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
