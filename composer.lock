@@ -650,16 +650,16 @@
     "packages-dev": [
         {
             "name": "jmichaelward/wp-setup",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jmichaelward/wp-setup.git",
-                "reference": "cf46d6c24a265f5952b117410f3cbe72133e061e"
+                "reference": "6bcd3a3626623d01eba67d4bf818e3657578156d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jmichaelward/wp-setup/zipball/cf46d6c24a265f5952b117410f3cbe72133e061e",
-                "reference": "cf46d6c24a265f5952b117410f3cbe72133e061e",
+                "url": "https://api.github.com/repos/jmichaelward/wp-setup/zipball/6bcd3a3626623d01eba67d4bf818e3657578156d",
+                "reference": "6bcd3a3626623d01eba67d4bf818e3657578156d",
                 "shasum": ""
             },
             "require": {
@@ -687,9 +687,9 @@
             "description": "A simple script for quickly setting up a WordPress installation.",
             "support": {
                 "issues": "https://github.com/jmichaelward/wp-setup/issues",
-                "source": "https://github.com/jmichaelward/wp-setup/tree/2.1.2"
+                "source": "https://github.com/jmichaelward/wp-setup/tree/2.1.3"
             },
-            "time": "2023-06-10T13:43:06+00:00"
+            "time": "2023-06-10T14:13:14+00:00"
         },
         {
             "name": "wp-cli/config-command",
